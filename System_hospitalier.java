@@ -35,11 +35,13 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		System.out.println("bonjour, comment allez-vous ? ");
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		System.out.println("Je vais super bien et vous ?");
 		return "Cluster trouvé";
 	}
 
